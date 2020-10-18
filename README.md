@@ -7,7 +7,7 @@ Data Set folders structure initially must be:
 
 data
 
-	|-> train
+	| -> train
 	
 		|-> benign
 		|-> malignant
