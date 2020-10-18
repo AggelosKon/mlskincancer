@@ -6,6 +6,7 @@ The Dataset can be found at: https://www.kaggle.com/fanconic/skin-cancer-maligna
 Data Set folders structure initially must be:
 
 data
+
 	|-> train
 	
 		|-> benign
