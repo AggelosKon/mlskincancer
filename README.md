@@ -13,7 +13,7 @@ data
 		|-> malignant
 		
 		
-	| ->test
+	| -> test
 		|-> benign
 		|-> malignant
 
