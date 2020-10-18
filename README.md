@@ -17,9 +17,9 @@ data
 		|-> benign
 		|-> malignant
 
-Caution: Make sure that all .ipynb files and data folder described above are in the save folder!
+Caution: Make sure that all .ipynb files and data folder described above are in the same folder!
 
-Run Populate_DataSetipynb to create a 4 times greater data set with images edited
+Run Populate_DataSet.ipynb to create a 4 times greater data set with images edited
 The new data set will be stored in a folder named 'augmented_dataset' which will contain
 * train set (70% of the augmented data set)
 * validation set (10% of the augmented data set)
