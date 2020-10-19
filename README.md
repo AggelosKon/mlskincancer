@@ -17,7 +17,7 @@ data
 		|-> benign
 		|-> malignant
 
-Caution: Make sure that all .ipynb files and data folder described above are in the same folder!
+Caution: Make sure that all .ipynb and .py files and data folder described above are in the same folder!
 
 Run Populate_DataSet.ipynb to create a 4 times greater data set with images edited
 The new data set will be stored in a folder named 'augmented_dataset' which will contain
