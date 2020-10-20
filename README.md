@@ -30,3 +30,4 @@ Run main.ipynb and choose among the models:
 1) MultiLayer Perceptron Neural Network
 2) Concolutional Neural Network
 3) Stochastic Gradient Descent
+4) Support Vector Machine
